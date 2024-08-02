@@ -11,7 +11,7 @@ const temporaryEmailDomains = [
   '10minutemail.com', 'guerrillamail.com', 'mailinator.com', 'maildrop.cc', 'temp-mail.org', 'tempmail.com', 'yopmail.com', 'maxturns.com'
 ]
 
-const tempEmailkeywords = ['mail', 'temp', 'guerrilla', '10min', 'disposable', 'fake', 'trash']
+const tempEmailkeywords = [ 'temp', 'guerrilla', '10min', 'disposable', 'fake', 'trash']
 
 
 const isTemporary =(email) => {
